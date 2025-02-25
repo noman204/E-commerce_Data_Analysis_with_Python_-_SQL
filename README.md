@@ -16,7 +16,7 @@ This project focuses on analyzing pizza sales data using SQL to derive meaningfu
 
 # Project Description:
 
-Objective:
+# Objective:
 
 The primary goal of this project is to perform data-driven analysis of pizza sales using SQL queries. The insights generated will help businesses:
 
@@ -24,7 +24,7 @@ Understand revenue trends and customer preferences.
 Identify the most and least popular pizzas.
 Optimize inventory and marketing strategies.
 Improve customer engagement based on sales patterns.
-Scope of Work
+# Scope of Work
 The project involves working with multiple relational database tables such as:
 
 Orders: Contains order details including timestamps and customer IDs.
@@ -50,13 +50,13 @@ Time-Based Trends
 Peak order hours and days of the week with maximum sales.
 Sales patterns over different time periods.
 
-Tools & Technologies:
+# Tools & Technologies:
 
 SQL Database (MySQL/PostgreSQL/SQL Server)
 SQL Queries (Joins, Aggregations, Subqueries, CTEs, Window Functions)
 Data Visualization (Optional: Power BI/Tableau for reporting)
 
-Expected Outcomes:
+# Expected Outcomes:
 
 A comprehensive SQL-based analysis of pizza sales performance.
 Data-driven insights to enhance menu offerings, promotions, and business strategies.
