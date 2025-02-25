@@ -1,6 +1,7 @@
 # Pizza Sales Data Analysis Using SQL
 
-Project Summary
+# Project Summary:
+
 This project focuses on analyzing pizza sales data using SQL to derive meaningful business insights. The dataset consists of customer orders, pizza details, and sales transactions, which are queried to identify revenue trends, top-selling pizzas, customer behavior, and peak sales hours. By leveraging SQL queries, joins, aggregations, and time-based analysis, this project aims to optimize business decisions for a pizza restaurant or chain.
 
 ![Image](https://github.com/user-attachments/assets/9500011f-81f0-4da7-a338-dbc40b1b0a5b)
@@ -13,8 +14,10 @@ This project focuses on analyzing pizza sales data using SQL to derive meaningfu
 
 ![Image](https://github.com/user-attachments/assets/e527418b-816e-4f3e-8399-f96812ca5f5b)
 
-Project Description
-Objective
+# Project Description:
+
+Objective:
+
 The primary goal of this project is to perform data-driven analysis of pizza sales using SQL queries. The insights generated will help businesses:
 
 Understand revenue trends and customer preferences.
@@ -30,7 +33,7 @@ Pizzas: Lists available pizzas, sizes, and prices.
 Customers: Stores customer-related information.
 Using SQL queries, the project covers:
 
-Sales Performance Analysis
+Sales Performance Analysis:
 
 Total revenue, total pizzas sold, and average order value.
 Identifying high-revenue-generating pizza sizes and categories.
@@ -46,11 +49,15 @@ Time-Based Trends
 
 Peak order hours and days of the week with maximum sales.
 Sales patterns over different time periods.
-Tools & Technologies
+
+Tools & Technologies:
+
 SQL Database (MySQL/PostgreSQL/SQL Server)
 SQL Queries (Joins, Aggregations, Subqueries, CTEs, Window Functions)
 Data Visualization (Optional: Power BI/Tableau for reporting)
-Expected Outcomes
+
+Expected Outcomes:
+
 A comprehensive SQL-based analysis of pizza sales performance.
 Data-driven insights to enhance menu offerings, promotions, and business strategies.
 An optimized inventory and sales strategy based on peak demand and customer preferences.
