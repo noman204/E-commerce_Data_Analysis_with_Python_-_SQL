@@ -2,7 +2,7 @@
 
 # Project Summary:
 
-This project focuses on analyzing an e-commerce database using SQL queries within a Python environment. By extracting and analyzing key data points, the project provides insights into customer behavior, sales trends, and business performance. It serves as a foundational guide for data analysts, business intelligence professionals, and developers looking to work with SQL-based databases in e-commerce analytics.
+This project focuses on analyzing an e-commerce database using SQL queries within a Python environment. By extracting and analyzing key data points, the project provides insights into customer behavior, sales trends, and business performance. It serves as a foundational guide for data analysts, business intelligence professionals, and developers looking to work with SQL-based databases in e-commerce analytics.This project presents a comprehensive analysis of key performance indicators in an e-commerce platform over the years 2016 to 2018. The analysis includes several visualizations that summarize payment trends, revenue generation, customer engagement, and geographic distribution of customers.
 
 ![Image](https://github.com/user-attachments/assets/9500011f-81f0-4da7-a338-dbc40b1b0a5b)
 
