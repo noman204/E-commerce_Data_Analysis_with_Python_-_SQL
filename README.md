@@ -136,8 +136,7 @@ Ensure you have the following installed:
 
 1.Clone the repository:
 
-(git clone https://github.com/yourusername/ecommerce-performance-analysis.git
-cd ecommerce-performance-analysis)
+(https://github.com/noman204/E-commerce_Data_Analysis_with_Python_-_SQL)
 
 2.Open the Jupyter Notebook:
 
